@@ -1,0 +1,10 @@
+# Ignore all Mac OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# htaccess
+/.htaccess
+
+# Log files
+*.log
